@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcany1
-- 👀 I’m interested in bicycles
+- 👀 I’m interested in bicycles!
 
 
 <!---
